@@ -1,0 +1,34 @@
+.logo-img{
+    cursor: pointer;
+}
+.product-img{
+    cursor: pointer;
+}
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+}
+
+.product-name{
+    color: blue;
+    font-weight: 400;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.product-celler{
+    margin-left: 20px;
+}
+
+.main-button{
+    background-color: goldenrod;
+    width: 200px;
+    height: 30px;
+    border: 1px solid ;
+    border-radius: 5px;
+    margin-left: 20px;
+    cursor: pointer;
+}
